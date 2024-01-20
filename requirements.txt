@@ -3,3 +3,4 @@ heroku3
 motor
 pyrogram
 tgcrypto
+heroku3
